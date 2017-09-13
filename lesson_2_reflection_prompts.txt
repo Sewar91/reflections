@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	add a heddin meta file called .git we need that to do our commit on the files.
+	
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	it is like a middel area between the repository and working directory 
+	and it is make us sure about what file(s) that we want to commit.
