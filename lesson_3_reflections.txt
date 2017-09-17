@@ -6,3 +6,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	I think the files on GitHub will be in safe all the time so when i need somthing to pull i will do that manually,
 	there is no need to do that automaticlly.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	fork : when we need to clone a repository exist on GitHub to our profile on GitHub too.
+
+	clones : when we need to make a copy of a repository from GitHub to our local or a copy from our local to anthor point in the local.
+
+	branch : when we need to do changes on our porject like make a new feature or fix bug.
