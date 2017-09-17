@@ -1,2 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
-  I think it is necessary to use the remote repo. from time to time, that will keep my work in safe.
+
+	I think it is necessary to use the remote repo. from time to time, that will keep my work in safe.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	I think the files on GitHub will be in safe all the time so when i need somthing to pull i will do that manually,
+	there is no need to do that automaticlly.
